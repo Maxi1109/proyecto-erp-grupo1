@@ -2,5 +2,4 @@ CREATE TABLE empleado (
 id SERIAL PRIMARY KEY, 
 nombre VARCHAR(100) NOT NULL,
 apellido VARCHAR (100) NOT NULL,
-cedula VARCHAR (20) NOT NULL UNIQUE,
-fecha_nacimiento DATE NOT NULL, );
+cedula VARCHAR (20) NOT NULL UNIQUE, );
