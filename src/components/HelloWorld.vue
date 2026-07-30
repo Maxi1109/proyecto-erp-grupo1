@@ -12,14 +12,19 @@
 
       <v-col class="mb-4">
         <h1 class="display-2 font-weight-bold mb-3">
-          Welcome to Vuetify
+          Proyecto ERP Grupo#1
         </h1>
 
         <p class="subheading font-weight-regular">
-          For help and collaboration with other Vuetify developers,
-          <br>please join our online
+          Realizado por:
+          <br> Equipo ----------> 1
+          <br> Maxiel González 31802535
+          <br> Karlos Herrera 32257442
+          <br> José Pérez 32958402
+          <br> Gabriel Arenas 31003968
+           <br> Hahnemann Aguero 31355205
           <a
-            href="https://community.vuetifyjs.com"
+            
             target="_blank"
           >Discord Community</a>
         </p>
