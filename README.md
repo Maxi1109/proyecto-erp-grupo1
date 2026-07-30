@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # erp-frontend
 
 ## Project setup
@@ -23,3 +24,6 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 - Backend: Hahnemann Aguero
+=======
+- Backend: [Hahnemann Aguero]
+>>>>>>> 09b603e (Hahnemann Aguero)
