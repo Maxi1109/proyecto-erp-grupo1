@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+Instalación y Ejecución del Proyecto
+1. npm install
+2. npm run serve
